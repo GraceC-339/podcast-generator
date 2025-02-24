@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Podcast Generator Copy"
 author: "Grace Chen"
 description: "Generates a feed for a pocast from a YAML file"
 runs:
